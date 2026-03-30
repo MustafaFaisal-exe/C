@@ -1,0 +1,12 @@
+# Compiled binaries (no extension)
+*
+!*.*
+!*/
+
+# Object files
+*.o
+*.out
+
+# IDE
+.vscode/
+.idea/
